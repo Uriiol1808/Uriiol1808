@@ -13,7 +13,7 @@
 <a href="https://www.leetcode.com/uriiol18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="uriiol18" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Technical Proficiency</h2>
+<h2 align="left">Main Technical Proficiency</h2>
 <!-- <h4 align="left">Programming Languages</h4>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
