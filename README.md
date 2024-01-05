@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Oriol Marín i Esclasans</h1>
+<h1 align="center">Welcome to my GitHub repository!</h1>
 <h3 align="center">I am a Software Engineer with a relentless drive for success, constantly seeking knowledge and lifelong learner in the fields of Machine Learning and Artificial Intelligence.</h3>
 
 - 🔭 I’m currently working as a **Software Engineer | Computer Vision self-learner.**
