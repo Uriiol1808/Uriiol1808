@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning **Deep Learning libraries and solving advanced algorithms.**
 
-- ⚡ Fun fact **I've been playing the electric guitar for over 10 years!**
+- ⚡ Fun fact **I've spent over ten years playing the electric guitar, refining my skills through self-learning.**
 
 <h4 align="left">Connect with me through:</h4>
 <p align="left">
