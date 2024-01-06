@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a **Software Engineer | Computer Vision self-learner.**
   
-- 🌱 I’m currently learning **DL libraries | Solving data structures & advanced algorithms.**
+- 🌱 I’m currently **Learning Python ML/AI libraries | Learning and solving Data Structures & Algorithms.**
 
 - ⚡ Fun fact **I've spent over ten years playing the electric guitar, refining my skills through self-learning.**
 
